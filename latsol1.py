@@ -1,4 +1,3 @@
-
 nama_buah = input("Masukkan nama buah (maksimum 20 karakter): ")
 if len(nama_buah) > 20:
     print("Nama buah tidak boleh lebih dari 20 karakter.")
